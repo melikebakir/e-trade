@@ -1,0 +1,5 @@
+package staj.eTicaret.entities.concretes;
+
+public class Product {
+
+}

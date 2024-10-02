@@ -1,0 +1,5 @@
+package staj.eTicaret.core.entities;
+
+public class User {
+
+}

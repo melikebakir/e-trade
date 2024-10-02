@@ -1,0 +1,5 @@
+package staj.eTicaret.entities.dtos;
+
+public class ProductWithCategoryDto {
+
+}

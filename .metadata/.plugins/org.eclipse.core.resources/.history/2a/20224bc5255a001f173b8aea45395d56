@@ -1,0 +1,11 @@
+package staj.eTicaret.dataAccess;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import staj.eTicaret.core.entities.User;
+
+public interface UserDao extends JpaRepository<User, Integer> {
+	
+	User findByEmail(String email);
+
+}

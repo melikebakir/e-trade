@@ -1,0 +1,5 @@
+package staj.eTicaret.businness.abstracts;
+
+public class ProductService {
+
+}

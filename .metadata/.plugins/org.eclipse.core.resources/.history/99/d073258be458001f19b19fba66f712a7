@@ -1,0 +1,5 @@
+package staj.eTicaret.core.utilities;
+
+public class DataResult {
+
+}
